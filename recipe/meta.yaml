@@ -1,6 +1,6 @@
 {% set name = "reference-handler" %}
-{% set version = "0.9.3" %}
-{% set sha256 = "a2cff3c5bf28f99f8988133e04e7c629b77ee500f8f1b16ce1200201f5e54605" %}
+{% set version = "0.9.4" %}
+{% set sha256 = "f26feb90b59d78ec9c7e46a9b02d2d1465476675d383b98141d65d0f7c71213f" %}
 
 package:
   name: {{ name|lower }}
